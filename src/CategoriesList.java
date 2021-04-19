@@ -1,2 +1,12 @@
-package PACKAGE_NAME;public class CategoriesList {
+public interface CategoriesList {
+     String[] category = {"Drama",
+            "Comedy",
+            "Documentary",
+            "Sci-fi",
+            "Horror",
+            "Thriller",
+            "Adventure",
+            "Romcom",
+            "Musical",
+            "Historical"};
 }
